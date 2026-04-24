@@ -29,10 +29,9 @@ El escaneo reportó múltiples archivos sospechosos en `/usr/lib/`.
 
 ## 📸 Evidencias de la Auditoría
 
-![Análisis de Procesos y Red](15%201.png)
+
 *Figura 1: Verificación de interfaces y detección de actividad de red.*
 
-![Depuración de Archivos Ocultos](15%202.png)
 *Figura 2: Auditoría de archivos sospechosos y validación de integridad en librerías.*
 
 ## 🏁 Conclusión
